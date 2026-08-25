@@ -383,8 +383,7 @@ Business Insights & Decision Support
 **DEEPANRAJ A**  
 **Data Analyst | SQL Expert | Cloud Analytics Specialist**
 
-- 📧 **Email**: deepanraj.a@outlook.com
-- 💼 **LinkedIn**: [/in/deepanraj-a-data-analyst](https://www.linkedin.com/in/deepanraj-a-data-analyst)
+- 🌐 **Portfolio**: [deeepanbe.github.io](https://deeepanbe.github.io)
 - 🐙 **GitHub**: [@deeepanbe](https://github.com/deeepanbe)
 - 🌐 **Portfolio**: [deeepanbe.github.io](https://deeepanbe.github.io)
 
@@ -408,6 +407,6 @@ MIT License - Feel free to use, modify, and adapt for your projects.
 ---
 
 **Last Updated**: May 2026  
-**Status**: ✅ Complete & Production-Ready  
+**Status**: ✅ Complete  
 **Next Update**: Real-time streaming pipeline addition
 
